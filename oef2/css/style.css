@@ -1,0 +1,12 @@
+.hoverMe{
+  width: 100px;
+  height: 100px;
+  background-color: #00aaaa;
+}
+
+#reset{
+  width: 100px;
+  height: 100px;
+  margin: auto;
+  background-color: #122f94;
+}
